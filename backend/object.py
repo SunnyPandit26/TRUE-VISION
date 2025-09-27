@@ -31,7 +31,7 @@ except ImportError as e:
     sys.exit(1)
 
 # ====== CONFIGURATION SETTINGS ======
-CAMERA_URL = "http://10.200.19.61:8080/video"
+CAMERA_URL = "http://10.219.236.20:8080/video"
 LAPTOP_CAMERA_INDEX = 0
 FRAME_WIDTH = 1280
 FRAME_HEIGHT = 720
